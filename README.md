@@ -2,7 +2,11 @@
 
 Te cuento sobre mi :raising_hand:
 
-Soy bachiller de la Universidad Científica del Sur. Actualmente estoy en proceso de convertirme en un Analista de Datos Junior 👩‍💻.
+Soy bachiller en *Ingeniería de Sistemas Empresariales* de la <a href="https://www.linkedin.com/school/universidad-cientifica-del-sur/">Universidad Científica del Sur</a>. 
+
+Actualmente estoy en proceso de convertirme en un *Analista de Datos Junior* 👩‍💻.
+
+<hr ---/>
 
 Como profesional estoy en proceso de mejora continua, por ello, estaré subiendo proyectos personales por aquí relacionado al análisis de datos. 
 
@@ -18,7 +22,7 @@ Si tienes un feedback sobre mis proyectos, no dudes en contactarte conmigo.
   
   📌 Conocimiento en visualización de datos con Power BI :chart_with_downwards_trend:.
   
-  
+  #### Contactame en:
   Linkedin: https://www.linkedin.com/in/alexander-carbajal-moquillaza/
 
 <!--
