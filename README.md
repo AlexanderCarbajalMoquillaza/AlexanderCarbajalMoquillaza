@@ -1,4 +1,25 @@
-### Hi there 👋
+## ¡Bienvenidos! Soy Alexander. 👋
+
+Te cuento sobre mi :raising_hand:
+
+Soy bachiller de la Universidad Científica del Sur. Actualmente estoy en proceso de convertirme en un Analista de Datos Junior 👩‍💻.
+
+Como profesional estoy en proceso de mejora continua, por ello, estaré subiendo proyectos personales por aquí relacionado al análisis de datos. 
+
+Si tienes un feedback sobre mis proyectos, no dudes en contactarte conmigo.
+
+
+
+  📌 He manejado motores de base de datos como SQL server y Oracle SQL developer :computer:.
+  
+  📌 Conocimiento en lenguaje de programación Python 🐍.
+  
+  📌 Conocimiento en fundamentos de estadística :chart_with_upwards_trend:.
+  
+  📌 Conocimiento en visualización de datos con Power BI :chart_with_downwards_trend:.
+  
+  
+  Linkedin: https://www.linkedin.com/in/alexander-carbajal-moquillaza/
 
 <!--
 **AlexanderCarbajalMoquillaza/AlexanderCarbajalMoquillaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
