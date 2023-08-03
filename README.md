@@ -4,7 +4,7 @@ Te cuento sobre mi :raising_hand:
 
 Soy bachiller en *Ingeniería de Sistemas Empresariales* de la <a href="https://www.linkedin.com/school/universidad-cientifica-del-sur/">Universidad Científica del Sur</a>. 
 
-Actualmente estoy en proceso de convertirme en un *Analista de Datos Junior* 👩‍💻.
+Bachiller en Ingeniería de Sistemas Empresariales de la Universidad Científica del Sur. Con experiencia en gestión de proyectos de TI, análisis de incidentes en base de datos haciendo uso de SQL server y Oracle SQL developer. Adicionalmente cuento con conocimiento en lenguaje de programación Python y fundamentos en estadística. 👩‍💻
 
 <hr ---/>
 
