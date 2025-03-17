@@ -2,9 +2,9 @@
 
 Te cuento sobre mi :raising_hand:
 
-Soy bachiller en *Ingeniería de Sistemas Empresariales* de la <a href="https://www.linkedin.com/school/universidad-cientifica-del-sur/">Universidad Científica del Sur</a>. 
+Soy *Ingeniero de Sistemas Empresarial* de la <a href="https://www.linkedin.com/school/universidad-cientifica-del-sur/">Universidad Científica del Sur</a>. 
 
-Con experiencia en gestión de proyectos de TI, análisis de incidentes en base de datos haciendo uso de SQL server y Oracle SQL developer. Adicionalmente cuento con conocimiento en lenguaje de programación Python y fundamentos en estadística. 👩‍💻
+Con experiencia en gestión de proyectos de TI, análisis de incidentes en sistemas haciendo uso de base de datos como SQL server, Oracle SQL developer y SQL Informix. Adicionalmente cuento con conocimiento en lenguaje de programación Python y fundamentos en estadística. 👩‍💻
 
 <hr ---/>
 
@@ -14,7 +14,7 @@ Si tienes un feedback sobre mis proyectos, no dudes en contactarte conmigo.
 
 
 
-  📌 He manejado motores de base de datos como SQL server y Oracle SQL developer :computer:.
+  📌 He manejado motores de base de datos como SQL server, Oracle SQL developer y DBStudio :computer:.
   
   📌 Conocimiento en lenguaje de programación Python 🐍.
   
