@@ -6,11 +6,6 @@ Te cuento sobre mi :raising_hand:
 
 <hr ---/>
 
-Como profesional estoy en proceso de mejora continua, por ello, estaré subiendo proyectos personales por aquí relacionado al análisis de datos. 
-
-Si tienes un feedback sobre mis proyectos, no dudes en contactarte conmigo.
-
-
 COMPETENCIAS TÉCNICAS
   - Backend: Java (17/21), Spring Boot, Spring Data JPA, Spring Cloud, Hibernate.
   - APIs & Web: RESTful APIs, JavaScript.
